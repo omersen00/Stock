@@ -1,3 +1,9 @@
+![Screenshot 2023-03-06 143036](https://user-images.githubusercontent.com/123519067/223212288-2dc91d20-bd6e-4d5c-b417-74afc24ce612.png)
+
+
+
+
+
 Sub Stock():
 
 For Each ws In Worksheets
